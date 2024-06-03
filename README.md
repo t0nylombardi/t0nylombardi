@@ -6,24 +6,30 @@
 - 📬 How to reach me **me@t0nylombardi.com**
 
 <p align="left"> 
-<a href="https://https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="ruby on rails" width="40" height="40"/> </a>  
-<a href="https://ruby-lang.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="ruby-lang" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  [![ruby on rails](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg)](https://rubyonrails.org/){:target="_blank" rel="noreferrer"}  
+  [![ruby-lang](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg)](https://ruby-lang.com){:target="_blank" rel="noreferrer"}  
+  [![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/){:target="_blank" rel="noreferrer"}  
+  [![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/){:target="_blank" rel="noreferrer"}  
+  [![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank" rel="noreferrer"}  
+  [![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/){:target="_blank" rel="noreferrer"}  
+  [![tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/){:target="_blank" rel="noreferrer"}  
+  [![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org){:target="_blank" rel="noreferrer"}  
+  [![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org){:target="_blank" rel="noreferrer"}  
+  [![sqlite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)](https://www.sqlite.org/){:target="_blank" rel="noreferrer"}  
+  [![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/){:target="_blank" rel="noreferrer"}  
+  [![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/){:target="_blank" rel="noreferrer"}  
+  [![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org/){:target="_blank" rel="noreferrer"}  
+  [![react](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg)](https://reactjs.org/){:target="_blank" rel="noreferrer"}  
+  [![react-native](https://reactnative.dev/img/header_logo.svg)](https://reactnative.dev/){:target="_blank" rel="noreferrer"}  
+  [![rickroll](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+</p>
+
 
 <h2>My Github Stats</h2>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=t0nylombardi&show_icons=true&locale=en&theme=dark" alt="t0nylombardi" />
-&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=t0nylombardi&show_icons=true&locale=en&layout=compact&theme=dark" alt="t0nylombardi" />
+![T0nylombardi's Github Stats](https://github-readme-stats.vercel.app/api?username=t0nylombardi&show=prs_merged,prs_merged_percentage&hide=stars&theme=dark)
+&nbsp;&nbsp;
+![T0nylombardi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=t0nylombardi&show_icons=true&locale=en&layout=compact&theme=dark)
 </p>
 
 <p align="left"> <a href="https://twitter.com/t0nylombardi" target="blank"><img src="https://img.shields.io/twitter/follow/t0nylombardi?logo=twitter&style=for-the-badge" alt="t0ny" /></a> </p>
