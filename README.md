@@ -50,16 +50,3 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </a>
 </p>
-
-
-<h2>My Github Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=t0nylombardi&show=prs_merged,prs_merged_percentage&hide=stars&theme=dark" alt="t0nylombardi" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t0nylombardi&show_icons=true&locale=en&layout=compact&theme=dark" alt="t0nylombardi" />
-</p>
-<p align="left"> 
-  <a href="https://twitter.com/t0nylombardi" target="blank">
-    <img src="https://img.shields.io/twitter/follow/t0nylombardi?logo=twitter&style=for-the-badge" alt="t0ny" />
-  </a> 
-</p>
