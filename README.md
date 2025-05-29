@@ -6,7 +6,7 @@
 </p>
 
 - 💻 I’m continuously learning and expanding my expertise in **Ruby/Rails**(currently 7.1) **React**, **React-Native**  **TypeScript**, **Python** **Docker** and **CI/CD**
-- 📬 How to reach me **me@t0nylombardi.com**
+- 📬 How to reach me **[me@t0nylombardi.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
 
 <p align="left"> 
   <a href="https://https://rubyonrails.org/" target="_blank" rel="noreferrer"> 
@@ -45,8 +45,5 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </a>
 </p>
